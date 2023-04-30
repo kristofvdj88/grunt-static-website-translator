@@ -4,4 +4,4 @@ tmp
 dist
 /Gruntfile.js
 test
-assets
+/assets

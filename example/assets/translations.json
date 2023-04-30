@@ -1,0 +1,121 @@
+{
+    "HOME": {
+        "TITLE": {
+            "EN": "My Simple Home Page",
+            "NL": "Mijn Eenvoudige Startpagina",
+            "FR": "Ma Page d'Accueil Simple"
+        },
+        "HEADER": {
+            "WELCOME": {
+                "EN": "Welcome to My Website",
+                "NL": "Welkom op Mijn Website",
+                "FR": "Bienvenue sur Mon Site Web"
+            }
+        },
+        "NAV": {
+            "HOME": {
+                "EN": "Home",
+                "NL": "Startpagina",
+                "FR": "Accueil"
+            },
+            "ABOUT": {
+                "EN": "About",
+                "NL": "Over",
+                "FR": "À propos"
+            },
+            "CONTACT": {
+                "EN": "Contact",
+                "NL": "Contact",
+                "FR": "Contact"
+            }
+        },
+        "MAIN": {
+            "TITLE": {
+                "EN": "About Me",
+                "NL": "Over Mij",
+                "FR": "À Propos de Moi"
+            },
+            "PARAGRAPH": {
+                "EN": "Hi, my name is kristofvdj88. I'm a software developer and I love playing squash and traveling the world. This website is a place for me to share my thoughts and ideas with the world.",
+                "NL": "Hallo, mijn naam is kristofvdj88. Ik ben een software-ontwikkelaar en ik hou van squashen en de wereld rondreizen. Deze website is een plek voor mij om mijn gedachten en ideeën met de wereld te delen.",
+                "FR": "Salut, mon nom est kristofvdj88. Je suis un développeur de logiciels et j'aime jouer au squash et voyager dans le monde. Ce site web est un endroit pour moi de partager mes pensées et mes idées avec le monde."
+            }
+        },
+        "FOOTER": {
+            "COPYRIGHT": {
+                "EN": "My Simple Home Page",
+                "NL": "Mijn Eenvoudige Startpagina",
+                "FR": "Ma Page d'Accueil Simple"
+            }
+        }
+    },
+    "SIGNUP": {
+        "WELCOMEFORM": {
+            "NAME": {
+                "EN": "Name",
+                "NL": "Naam",
+                "FR": "Nom"
+            },
+            "EMAIL": {
+                "EN": "Email",
+                "NL": "E-mail",
+                "FR": "Email"
+            },
+            "PHONE": {
+                "EN": "Phone",
+                "NL": "Telefoon",
+                "FR": "Téléphone"
+            },
+            "AGE": {
+                "EN": "Age",
+                "NL": "Leeftijd",
+                "FR": "Âge"
+            },
+            "GENDER": {
+                "EN": "Gender",
+                "NL": "Geslacht",
+                "FR": "Genre",
+                "MALE": {
+                    "EN": "Male",
+                    "NL": "Man",
+                    "FR": "Homme"
+                },
+                "FEMALE": {
+                    "EN": "Female",
+                    "NL": "Vrouw",
+                    "FR": "Femme"
+                },
+                "OTHER": {
+                    "EN": "Other",
+                    "NL": "Anders",
+                    "FR": "Autre"
+                }
+            },
+            "ADDRESS": {
+                "EN": "Address",
+                "NL": "Adres",
+                "FR": "Adresse"
+            },
+            "CITY": {
+                "EN": "City",
+                "NL": "Stad",
+                "FR": "Ville"
+            },
+            "STATE": {
+                "EN": "State",
+                "NL": "Provincie",
+                "FR": "État"
+            },
+            "ZIP": {
+                "EN": "Zip",
+                "NL": "Postcode",
+                "FR": "Code postal"
+            },
+            "COUNTRY": {
+                "EN": "Country",
+                "NL": "Land",
+                "FR": "Pays"
+            }
+        }
+    }
+}
