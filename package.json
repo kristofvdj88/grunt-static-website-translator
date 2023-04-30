@@ -1,7 +1,7 @@
 {
     "name": "grunt-static-website-translator",
     "description": "A Grunt plugin that can be leveraged to translate your static website. It translates all key-variables in your files to the translated values specified in one convenient json file, in all the languages you may need.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/kristofvdj88/grunt-static-website-translator",
     "author": {
         "name": "Kristof Van Der Jonckheyd",
