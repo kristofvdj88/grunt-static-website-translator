@@ -2,7 +2,7 @@
     "name": "grunt-static-website-translator",
     "description": "A Grunt plugin that can be leveraged to translate your static website. It translates all key-variables in your files to the translated values specified in one convenient json file, in all the languages you may need.",
     "version": "0.1.0",
-    "homepage": "https://github.com/kvdjonck/Grunt_plugins",
+    "homepage": "https://github.com/kristofvdj88/grunt-static-website-translator",
     "author": {
         "name": "Kristof Van Der Jonckheyd",
         "email": "kristofvdj88@gmail.com"
@@ -17,7 +17,7 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/kvdjonck/Grunt_plugins/blob/master/LICENSE-MIT"
+            "url": "https://github.com/kristofvdj88/grunt-static-website-translator/blob/main/LICENSE-MIT"
         }
     ],
     "engines": {
